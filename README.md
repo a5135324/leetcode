@@ -1,6 +1,7 @@
 # leetcode
 
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+* [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/)
 * [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 * [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 * [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
