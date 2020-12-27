@@ -7,6 +7,8 @@
 * [[Medium] 8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 * [[Easy] 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 * [[Medium] 11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+* [[Medium] 12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+* [[Easy] 13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 * [[Easy] 53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 * [[Easy] 70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 * [[Easy] 121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
